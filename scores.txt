@@ -1,0 +1,5 @@
+PlayerA	20
+PlayerB	25
+PlayerC	30
+PlayerD	35
+PlayerE	40
